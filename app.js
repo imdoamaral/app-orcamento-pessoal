@@ -152,7 +152,7 @@ function cadastrarDespesa() {
         document.getElementById('modal_btn').className = 'btn btn-success'
 
         //dialog de sucesso
-        $('#modalRegistraDespesa').modal('show')
+        $('#modalRegistraDespesa').modal('show') // ----- JQUERY -----
 
         //limpando os campos de registro de nova despesa
         ano.value = ''
