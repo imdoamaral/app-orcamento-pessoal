@@ -37,7 +37,7 @@ class Bd {
     gravar(despesa) {
         let id = this.getProximoId()
 
-        localStorage.setItem(id, JSON.stringify(despesa)) //converte o objeto id para notacao JSON
+        localStorage.setItem(id, JSON.stringify(despesa)) //converte o objeto despesa para notacao JSON
 
         localStorage.setItem('id', id) //atualiza o 'id' com id recuperado
     }
