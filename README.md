@@ -17,7 +17,7 @@ O app **orçamento-pessoal** foi criado dentro do curso [Desenvolvimento Web Com
 
 
 ## 💡 Conhecimentos aplicados
-**JavaScript** avançado
+**JavaScript** nível intermediário
 - Princípios de Orientação a Objetos
 - Web Storage
 - Array Filter
